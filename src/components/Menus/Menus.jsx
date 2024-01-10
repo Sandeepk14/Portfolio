@@ -1,4 +1,3 @@
-import React from "react";
 import "./Menus.css";
 import { Link } from "react-scroll";
 import {
@@ -16,7 +15,7 @@ const Menus = ({ toggle }) => {
       {toggle ? (
         <>
           <div className="navbar-profile-pic">
-            <img src="s.img.jpg" alt="profile pic" />
+            <img src="pro.jpg" alt="profile pic" />
           </div>
 
           <div className="nav-items">

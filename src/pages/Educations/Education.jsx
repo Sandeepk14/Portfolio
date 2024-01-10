@@ -1,4 +1,3 @@
-import React from "react";
 import { MdSchool } from "react-icons/md";
 import "./Education.css";
 import {
@@ -28,7 +27,7 @@ const Education = () => {
               Batcher of Technology
             </h3>
             <h4 className="vertical-timeline-element-subtitle">
-              REC AZAMGARH, IN
+              REC AZAMGARH, INDIA
             </h4>
             <p></p>
           </VerticalTimelineElement>
@@ -43,7 +42,7 @@ const Education = () => {
           >
             <h3 className="vertical-timeline-element-title">INTERMEDIATE</h3>
             <h4 className="vertical-timeline-element-subtitle">
-              Bal Krishna I C Khatirpur, Ghazipur, IN
+              Bal Krishna I C Khatirpur, Ghazipur, INDIA
             </h4>
             <p></p>
           </VerticalTimelineElement>
@@ -58,7 +57,7 @@ const Education = () => {
           >
             <h3 className="vertical-timeline-element-title">HIGH SCHOOL</h3>
             <h4 className="vertical-timeline-element-subtitle">
-              S R D A H S S Bhajayatilari, Ghazipur, IN
+              S R D A H S S Bhajayatilari, Ghazipur, INDIA
             </h4>
             <p></p>
           </VerticalTimelineElement>

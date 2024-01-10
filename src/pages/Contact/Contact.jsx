@@ -1,4 +1,3 @@
-import React from "react";
 import "./Contact.css";
 
 import { BsGithub, BsLinkedin, BsYoutube } from "react-icons/bs";
@@ -88,8 +87,8 @@ const Contact = () => {
                       placeholder="Enter your Message"
                       required
                     ></textarea>
-                    <div class="h-captcha" data-captcha="true"></div>
-                    <div class="button-container row px-3 btn">
+                    <div className="h-captcha" data-captcha="true"></div>
+                    <div className="button-container row px-3 btn">
                       <button className="button1">SEND MESSAGE</button>
                       <button className="button2" type="reset">
                         RESET

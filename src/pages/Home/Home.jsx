@@ -1,4 +1,3 @@
-import React from "react";
 import { useTheme } from "../../context/ThemeContext";
 import Typewriter from "typewriter-effect";
 import Resume from "../../assets/docs/my resume.pdf";
