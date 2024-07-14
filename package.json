@@ -6,6 +6,8 @@
   "type": "module",
   "scripts": {
     "build": "vite build",
+    "install:force": "npm install --force",
+    "install:legacy": "npm install --legacy-peer-deps",
     
 
     "dev": "vite",
