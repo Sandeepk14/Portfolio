@@ -1,5 +1,5 @@
 # React + Vite
-Portfoli demo: https://669384a5f5566504fc6847d0--teal-daffodil-f80e69.netlify.app/
+Portfolio demo: https://teal-daffodil-f80e69.netlify.app/
 
 # Preview
 
