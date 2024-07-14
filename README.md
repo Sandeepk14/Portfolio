@@ -1,6 +1,5 @@
 # React + Vite
-live Demo
-https://capable-flan-9e7be3.netlify.app
+
 
 
 
