@@ -3,7 +3,8 @@ Portfoli demo: https://669384a5f5566504fc6847d0--teal-daffodil-f80e69.netlify.ap
 
 # Preview
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/9fd4e37f-a5b6-4d70-9858-9459f4e1bb82)
+
 
 
 
