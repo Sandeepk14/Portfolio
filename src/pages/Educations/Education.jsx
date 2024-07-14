@@ -24,7 +24,7 @@ const Education = () => {
             icon={<MdSchool />}
           >
             <h3 className="vertical-timeline-element-title">
-              Batcher of Technology
+              Batchelor of Technology
             </h3>
             <h4 className="vertical-timeline-element-subtitle">
               REC AZAMGARH, INDIA

@@ -27,34 +27,54 @@ const Contact = () => {
                     <h6>
                       Contact With a
                       <a
-                        href="linkedin.com/in/sandeep-kumar-100211235"
+                        href="https://linkedin.com/in/sandeep-kumar-100211235"
                         target="_blank"
+                        rel="noopener noreferrer"
                       >
                         <BsLinkedin
                           color="blue"
-                          title="Linkedin"
+                          title="LinkedIn"
                           size={30}
                           className="ms-2"
                         />
                       </a>
-                      <BsYoutube
-                        color="red"
-                        title="Youtube"
-                        size={30}
-                        className="ms-2"
-                      />
-                      <AiFillInstagram
-                        color="blue"
-                        title="Instagram"
-                        size={30}
-                        className="ms-2"
-                      />
-                      <BsGithub
-                        color="blue"
-                        title="Github"
-                        size={30}
-                        className="ms-2"
-                      />
+                      <a
+                        href="#"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
+                        <BsYoutube
+                          color="red"
+                          title="Youtube"
+                          size={30}
+                          className="ms-2"
+                        />
+                      </a>
+                      <a
+                        href="https://www.instagram.com/t___h___e__s___a___n___d_ee__p/"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
+                        <AiFillInstagram
+                          color="blue"
+                          title="Instagram"
+                          size={30}
+                          className="ms-2"
+                        />
+                      </a>
+                      <a
+                        href="https://github.com/Sandeepk14"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
+                        <BsGithub
+                          color="blue"
+                          title="Github"
+                          size={30}
+                          className="ms-2"
+                        />
+                      </a>
+                     
                     </h6>
                   </div>
 

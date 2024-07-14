@@ -1,4 +1,4 @@
-import React from "react";
+
 import {
   VerticalTimeline,
   VerticalTimelineElement,
@@ -23,12 +23,12 @@ const WorkExp = () => {
               contentArrowStyle={{
                 borderRight: "7px solid  white",
               }}
-              date="2011 - present"
+              date=" Jan 2023 - Dec 2023"
               iconStyle={{ background: "#1e1e2c", color: "#fff" }}
               icon={<SiReact />}
             >
               <h3 className="vertical-timeline-element-title">
-                Full Stack developer
+                MERN Stack developer
               </h3>
               <h4 className="vertical-timeline-element-subtitle">
                 DSITTC.PVT.LTD

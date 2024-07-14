@@ -1,4 +1,4 @@
-import React from "react";
+
 import "./Projects.css";
 const Projects = () => {
   return (
@@ -15,7 +15,7 @@ const Projects = () => {
           <div className="col-md-4">
             <div className="card rounded">
               <div className="card-image">
-                <span className="card-notify-badge">Full stack</span>
+                <span className="card-notify-badge">Portfolio</span>
                 <img src="porfolio img.jpg" alt="project1" />
               </div>
               <div className="card-image-overly m-auto mt-3">
@@ -28,7 +28,7 @@ const Projects = () => {
                 <div className="ad-title m-auto">
                   <h5 className="text-uppercase">My Portfolio React app</h5>
                 </div>
-                <a className="ad-btn" href="#">
+                <a className="ad-btn" href="https://github.com/Sandeepk14/Portfolio">
                   view
                 </a>
               </div>
